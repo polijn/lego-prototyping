@@ -142,3 +142,26 @@ if(1){
     translate([0,0,0])lego_mount();
 }
 
+
+if (1){
+     // emission filter 
+    color([0.168,0.694,0.941],0.8) translate([0,0,20]) cylinder(h=2,d=25);
+    /// pi cam v3 wide 
+    m_offset = 15;
+    color([0.3176,0.419,0.07],1)translate([0,0,-12.5 + m_offset]) cylinder(h=4, d=6,$fn=50); // 6 is not
+    color([0.3176,0.419,0.07],1)translate([0,0,-14.5 + m_offset]) cube([10,10,4],center=true);
+    color([0.3176,0.419,0.07],1)translate([0,-4,-18 + m_offset]) cube([25,24,3],center=true);
+    // laser 
+    color([0,1,0],1) translate([0,0,32])rotate([0,0,45]) laser_holes(laser_dia = 9, laser_dist = 55);
+    difference(){
+        color([1,0.843,0],1) translate([0,0,32])rotate([0,0,45]) laser_holes(laser_dia = 13, laser_dist = 75);
+        color([0,1,0],1) translate([0,0,31.9])rotate([0,0,45]) laser_holes(laser_dia = 13.1, laser_dist = 46);
+    }
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
