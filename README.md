@@ -15,4 +15,4 @@ The golden tubes with the green cones represent laser, the transparent circle ca
 ![visualisation of microscope with hardware using openSCAD](microscope/vis_anim_openSCAD.gif?raw=true)
 
 This is an image I took of the microscope prototype. The microscope is built out of LEGO bricks and the hardware is mounted by the specialized LEGO bricks.  
-<img src="microscope/microscope_build_v1.jpg " alt="image of microscope prototype" width="600"/>
+<img src="microscope/microscope_build_v1.jpg " alt="image of microscope prototype" width="610"/>
