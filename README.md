@@ -8,3 +8,6 @@ This gave me the idea to use my old LEGO bricks to prototype the design of the m
 The limitation of the conventional LEGO bricks lead me to design my own specialized bricks in OpenSCAD.
 Fun fact: The first Google server was build with LEGO bricks as well ([The Original GOOGLE Computer Storage](http://infolab.stanford.edu/pub/voy/museum/pictures/display/0-4-Google.htm)).
 
+
+## microscope
+![visualisation of microscope with hardware using openSCAD](microscope/vis_anim_openSCAD.gif?raw=true)
