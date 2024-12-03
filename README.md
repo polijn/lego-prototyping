@@ -14,6 +14,5 @@ This amazing visualization and animation was created using openSCAD and the mous
 The golden tubes with the green cones represent laser, the transparent circle can be a lens or in my case an emission filter, and the green square thing is a rasberry pi camera.
 ![visualisation of microscope with hardware using openSCAD](microscope/vis_anim_openSCAD.gif?raw=true)
 
-This is an image I took of the microscope prototype. The microscope is built out of LEGO bricks and the hardware is mounted by the specialized LEGO bricks.
-![image of microscope prototype](microscope/microscope_build_v1.jpg =x800)
-
+This is an image I took of the microscope prototype. The microscope is built out of LEGO bricks and the hardware is mounted by the specialized LEGO bricks.  
+<img src="microscope/microscope_build_v1.jpg " alt="image of microscope prototype" width="600"/>
